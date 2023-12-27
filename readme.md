@@ -12,7 +12,7 @@ Some of the references were forked/copied. Just to cut the crappy hassle for my 
    - apache
    - ols
 4. docker-to-git automation
-5. Git-repository
+5. [Git-repository-sshkey-setup](https://github.com/nordinr/boilerplate/wiki/How-to-GIT)
 6. Git-Runner/GitFlow
 
   
