@@ -5,8 +5,8 @@ Some of the references were forked/copied. Just to cut the crappy hassle for my 
 
 1. [Setting up Docker-CE for Ubuntu 20.04](https://github.com/nordinr/boilerplate/wiki/Installing-Docker-on-Ubuntu-20.04)
 2. Docker Image Build/Installation
-   - [Portainer](https://github.com/nordinr/boilerplate/wiki/Install-Portainer-Community-Edition-(CE)-on-Linux-Server)
-   - Reverse Proxy
+   - [Portainer](https://github.com/nordinr/boilerplates/tree/master/docker-compose/portainer)
+   - [Reverse Proxy](https://github.com/nordinr/boilerplates/tree/master/docker-compose/nginxproxymanager)
    - Wordpress+Redis
    - OJS
    - apache
