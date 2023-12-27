@@ -3,7 +3,7 @@ Some of the references were forked/copied. Just to cut the crappy hassle for my 
 
 ## Index
 
-1. Setting up Docker-CE for Ubuntu 20.04
+1. [Setting up Docker-CE for Ubuntu 20.04](/wiki/Installing-Docker-on-Ubuntu-20.04)
 2. Docker Image Build/Installation
    - Portainer
    - Reverse Proxy
